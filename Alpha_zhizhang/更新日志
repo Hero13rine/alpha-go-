@@ -1,0 +1,4 @@
+11-04-12点18分：更新  train2.py 162 进程锁
+                    train2.py  185 进程id显示
+                    policy_value_net.py 138 try语句
+
